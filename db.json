@@ -1,0 +1,36 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Malli"
+    },
+    {
+      "id": "2",
+      "name": "Reddy"
+    },
+    {
+      "id": "3",
+      "name": "Chandu"
+    },
+    {
+      "id": "5",
+      "name": "Obul Reddy"
+    },
+    {
+      "id": "6",
+      "name": "Konda Reddy"
+    },
+    {
+      "id": "2023-01-05T07:17:24.548Z",
+      "name": "Arjun"
+    },
+    {
+      "id": "2023-01-05T07:18:16.754Z",
+      "name": "Arjun12"
+    },
+    {
+      "id": "2023-01-05T07:22:07.997Z",
+      "name": "MassRaja"
+    }
+  ]
+}
